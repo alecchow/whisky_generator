@@ -29,3 +29,8 @@ for (let comp in database) {
             whiskyChoice.push('No whisky for you tonight!');
     }
 };
+
+//Stich different parts together and log on screen
+console.log(whiskyChoice.join(''));
+
+//Use node script.js to test
