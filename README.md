@@ -1,5 +1,4 @@
 # Whisky Generator
-
 ╋╋╋╋╋┏┓╋╋╋╋╋┏┓╋╋╋╋╋╋
 ╋╋╋╋╋┃┃╋╋╋╋╋┃┃╋╋╋╋╋╋
 ┏┓┏┓┏┫┗━┳┳━━┫┃┏┳┓╋┏┓
@@ -8,7 +7,6 @@
 ╋┗┛┗┛┗┛┗┻┻━━┻┛┗┻━┓┏┛
 ╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋┏━┛┃╋
 ╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋┗━━┛╋
-
 ## Introduction
 Hi! this is my first attempt for the message generator project, part of my codecademy full-stack engineer course. This is also my first attempt at writing README in Markdown format and uploading my local repo to GitHub. Feel free to leave comments about my code or style. Any suggestion are most welcomed.
 
