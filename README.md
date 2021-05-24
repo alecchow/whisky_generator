@@ -1,23 +1,21 @@
 # Whisky Generator
 
-╋╋╋╋╋┏┓╋╋╋╋╋┏┓
-╋╋╋╋╋┃┃╋╋╋╋╋┃┃
+╋╋╋╋╋┏┓╋╋╋╋╋┏┓╋╋╋╋╋╋
+╋╋╋╋╋┃┃╋╋╋╋╋┃┃╋╋╋╋╋╋
 ┏┓┏┓┏┫┗━┳┳━━┫┃┏┳┓╋┏┓
 ┃┗┛┗┛┃┏┓┣┫━━┫┗┛┫┃╋┃┃
 ┗┓┏┓┏┫┃┃┃┣━━┃┏┓┫┗━┛┃
 ╋┗┛┗┛┗┛┗┻┻━━┻┛┗┻━┓┏┛
-╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋┏━┛┃
-╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋┗━━┛
+╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋┏━┛┃╋
+╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋┗━━┛╋
 
 ## Introduction
 Hi! this is my first attempt for the message generator project, part of my codecademy full-stack engineer course. This is also my first attempt at writing README in Markdown format and uploading my local repo to GitHub. Feel free to leave comments about my code or style. Any suggestion are most welcomed.
 
----
 
 ## Goal
 A simple random message generator program build using JavaScript and Git version control.
 
----
 
 ## Objectives
 1. Produces an output message that constitutes at least **3 different components**. 
@@ -26,8 +24,6 @@ A simple random message generator program build using JavaScript and Git version
 4. Use Git version control through out the project.
 5. Develop locally and upload to GitHub upon completion.
 
----
-
 ## Technologies
 * Bash,
 * Git,
@@ -35,8 +31,6 @@ A simple random message generator program build using JavaScript and Git version
 * Markdown,
 * Node,
 * JavaScript
-
----
 
 ## Timeline
 1. Create new local directory (folder) `mkdir whisky_generator`
